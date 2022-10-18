@@ -1,5 +1,5 @@
 ### Hallo! 👋
-😄 Pronouns: Yapo
+Pronouns: Yapo
 
 
 <!--
