@@ -12,4 +12,3 @@ Pronouns: Yapo
   <p align="center">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21ayo5i3ka32wfuk65pz42qca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 </p>
-  
