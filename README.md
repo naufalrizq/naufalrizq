@@ -1,33 +1,42 @@
-<!-- ### Hallo! 👋
-Pronouns: Yapo
--->
-
+<h3 align="center">Hi 👋, I'm Naufal Rizq Ramadhan</h3>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=naufalrizq&hide=contribs,prs,issues&hide_border=true&theme=darcula&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalrizq&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css&exclude_repo=Pacman-AI">
-<!--   <img src ="https://github-readme-streak-stats.herokuapp.com?user=naufalrizq&theme=darcula&hide_border=true&background=FFFFFF00"> -->
-  <br>
-  <br>
-  </p>
-  
-  <p align="center">
-  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21ayo5i3ka32wfuk65pz42qca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=naufalrizq&hide=contribs,prs,issues&theme=blue-green&bg_color=00000000&hide_border=true">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalrizq&layout=compact&hide_border=true&theme=blue-green&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css&exclude_repo=Pacman-AI">
 </p>
-  
- 
-  
-<!--
-**naufalrizq/naufalrizq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">Visitor Count</h3>
+<p align="center">
+  <img align ="center" src="https://profile-counter.glitch.me/naufalrizq/count.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/naufalrizq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufalrizq" height="30" width="40" /></a>
+<a href="https://instagram.com/nrizqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nrizqq" height="30" width="40" /></a>
+<a href="https://discord.gg/.yapo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".yapo" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+ <p align="center">
+<!-- Language -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <!-- QL -->
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<!-- Framework -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+<!-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="" alt="nextjs" width="40" height="40"/> </a>  -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <!-- Framework CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  </p>
+
+
+
+<!-- Spotify -->
+<!--  <p align="center"> -->
+<!--   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21ayo5i3ka32wfuk65pz42qca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"> 
+</p>
 -->
