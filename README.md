@@ -1,21 +1,7 @@
 <h3 align="center">Hi 👋, I'm Naufal Rizq Ramadhan</h3>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=naufalrizq&hide=contribs,prs,issues&theme=blue-green&bg_color=00000000&hide_border=true">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalrizq&layout=compact&hide_border=true&theme=blue-green&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css&exclude_repo=Pacman-AI">
-</p>
-
-<h3 align="center">Visitor Count</h3>
-<p align="center">
-  <img align ="center" src="https://profile-counter.glitch.me/naufalrizq/count.svg" />
-</p>
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/naufalrizq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufalrizq" height="30" width="40" /></a>
-<a href="https://instagram.com/nrizqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nrizqq" height="30" width="40" /></a>
-<a href="https://discord.gg/.yapo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".yapo" height="30" width="40" /></a>
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=naufalrizq&hide=contribs,prs,issues&theme=blue-green&bg_color=00000000&hide_border=true"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalrizq&layout=compact&hide_border=true&theme=blue-green&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css&exclude_repo=Pacman-AI">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -33,6 +19,19 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <!-- Framework CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  
+   
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/naufalrizq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufalrizq" height="30" width="40" /></a>
+<a href="https://instagram.com/nrizqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nrizqq" height="30" width="40" /></a>
+<a href="https://discord.gg/.yapo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".yapo" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Visitor Count</h3>
+<p align="center">
+  <img align ="center" src="https://profile-counter.glitch.me/naufalrizq/count.svg" />
+</p>
   </p>
 
 
