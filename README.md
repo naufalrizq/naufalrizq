@@ -4,6 +4,7 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=naufalrizq&hide=contribs,prs,issues&theme=blue-green&bg_color=00000000&hide_border=true"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalrizq&layout=compact&hide_border=true&theme=blue-green&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css&exclude_repo=Pacman-AI">
 </p>
 
+
 **<p align="center">Languages and Tools:</p>**
  <p align="center">
 <!-- Language -->
@@ -19,7 +20,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <!-- Framework CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  
+
    
 **<p align="center">Connect with me:</p>**
 <p align="center">
