@@ -2,7 +2,8 @@
 
 <p align="center">
 <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=naufalrizq&hide=contribs,prs,issues&theme=blue-green&bg_color=00000000&hide_border=true">
-<!--
+
+ <!--
 <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naufalrizq&layout=compact&hide_border=true&theme=blue-green&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,kotlin,Blade,html,scss,ejs&exclude_repo=Pacman-AI">
 -->
 </p>
