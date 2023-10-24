@@ -29,7 +29,8 @@
 <a href="https://instagram.com/nrizqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nrizqq" height="30" width="40" /></a>
 <a href="https://discord.gg/.yapo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".yapo" height="30" width="40" /></a>
 </p>
-**<p align="center">Visitor Count</p>**
+
+**<p align="center">Visitor Count:</p>**
 <p align="center">
   <img align ="center" src="https://profile-counter.glitch.me/naufalrizq/count.svg" />
 </p>
