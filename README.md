@@ -1,4 +1,4 @@
-7<!--**<p align="center">Hi, I'm Naufal Rizq Ramadhan🙌🏻</p>** -->
+<!--**<p align="center">Hi, I'm Naufal Rizq Ramadhan🙌🏻</p>** -->
 <p align="center">
 <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=naufalrizq&hide=contribs,prs,issues&theme=blue-green&bg_color=00000000&hide_border=true">
  <!--
