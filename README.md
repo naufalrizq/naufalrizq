@@ -5,13 +5,13 @@
 <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naufalrizq&layout=compact&hide_border=true&theme=blue-green&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,kotlin,Blade,html,scss,ejs&exclude_repo=Pacman-AI">
 -->
 </p>
-
 **<p align="center">Tech Stack:</p>**
  <p align="center">
 <!-- Tools -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <!--   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> -->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="40" height="40"/> </a>
    <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"  width="40" height="40"/> </a>
