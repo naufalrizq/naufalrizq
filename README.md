@@ -24,7 +24,8 @@
 <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="40" width="40">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="figma" width="40" height="40"/> </a>
 <!-- <img src="./images/nextjs.svg" height="40" width="40"> -->
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+ <!--
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="react" width="40" height="40"/> </a>
   <!-- Framework CSS -->
