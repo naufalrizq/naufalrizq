@@ -1,47 +1,56 @@
-<!--**<p align="center">Hi, I'm Naufal Rizq Ramadhan🙌🏻</p>** -->
+<h1 align="center">Hi, I'm Naufal Rizq Ramadhan 👋</h1>
+
 <p align="center">
-<img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=naufalrizq&hide=contribs,prs,issues&theme=blue-green&bg_color=00000000&hide_border=true">
- <!--
-<img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naufalrizq&layout=compact&hide_border=true&theme=blue-green&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,kotlin,Blade,html,scss,ejs&exclude_repo=Pacman-AI">
--->
+  Full-stack developer who enjoys shipping end-to-end: API, database, and the UI on top of them.
 </p>
 
-
-**<p align="center">Tech Stack:</p>**
- <p align="center">
-<!-- Tools -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<!--   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> -->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="40" height="40"/> </a>
-   <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"  width="40" height="40"/> </a>
-  <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"  width="40" height="40"/> </a>
-  <!-- QL -->
-<!--    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-<!-- Framework -->
-<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="40" width="40">
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="figma" width="40" height="40"/> </a>
-<!-- <img src="./images/nextjs.svg" height="40" width="40"> -->
- <!--
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="react" width="40" height="40"/> </a>
-  <!-- Framework CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
-
-<!-- **<p align="center">Connect with me:</p>**
 <p align="center">
-<a href="https://linkedin.com/in/naufalrizq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufalrizq" height="30" width="40" /></a>
-<a href="https://instagram.com/nrizqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nrizqq" height="30" width="40" /></a>
-<a href="https://discord.gg/.yapo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".yapo" height="30" width="40" /></a>
-</p> -->
+  <a href="https://komarev.com/ghpvc/?username=naufalrizq&color=059669&style=flat-square&label=profile+views">
+    <img src="https://komarev.com/ghpvc/?username=naufalrizq&color=059669&style=flat-square&label=profile+views" alt="profile views" />
+  </a>
+  <a href="https://github.com/naufalrizq?tab=followers">
+    <img src="https://img.shields.io/github/followers/naufalrizq?style=flat-square&color=059669&label=followers" alt="followers" />
+  </a>
+</p>
 
-**<p align="center">Visitor Count:</p>**
+### 🚀 About me
+
+- 🔭 Currently building [**toefl-prep**](https://github.com/naufalrizq/toefl-prep) — a Go + React TOEFL practice app with POS-highlighted review, PDF export and LLM-assisted question generation
+- 🌱 Deep-diving backend engineering: auth/session security, load testing with k6, CI/CD pipelines
+- 💬 Ask me about Laravel, React, or how to keep a monorepo honest
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img align ="center" src="https://profile-counter.glitch.me/naufalrizq/count.svg" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=naufalrizq&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalrizq&layout=compact&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
 </p>
